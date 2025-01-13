@@ -5,7 +5,7 @@
 I am committed to supporting teams in the implementation of advanced systems and software to meet business objectives. 
 I focus on improving structure and efficiency and have the ability to define clear tasks while being committed to completing and resolving technical issues.
 
-I possess strong knowledge of programming software, application, and website development. All coding projects are built from the ground up, from planning and designing all the way to solving real-world problems with code. Additionally, I provide training materials and videos, and conduct training in MS 365 and other creative software.
+I possess strong knowledge of programming software, application, and website development. All coding projects are built from the ground up, from planning and designing all the way to solving real-world problems with code. Additionally, I provide training materials, videos, and conduct training in MS 365 and other creative software.
 
 
 

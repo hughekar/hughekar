@@ -3,10 +3,9 @@
 ![banner](https://github.com/user-attachments/assets/5eb38c07-3f6f-4842-a789-b1e5ce67c872)
 
 
-
 # Hi I am Karen Hughes
 
-**Developer (Software Developer/Game Designer)**
+**Software Developer & Game Designer**
 
 I am a dedicated ICT Technician with a strong background in supporting teams through the implementation of advanced systems and software to meet business objectives.
 

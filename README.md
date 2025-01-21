@@ -17,7 +17,7 @@ I have expertise includes managing migrations to Intune and SharePoint, working 
       <a href="https://www.youtube.com/@karenlouise75?sub_confirmation=1">
                 <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1 "Subscribe to my YouTube channel"/></a> 
               <a href="https://github.com/hughekar?tab=following">
-               <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hugheskar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+               <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 
 

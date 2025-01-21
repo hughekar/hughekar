@@ -1,5 +1,6 @@
 <!--Banner-->
-![Banner Image](./banner.png)
+
+![banner](https://github.com/user-attachments/assets/5eb38c07-3f6f-4842-a789-b1e5ce67c872)
 
 
 

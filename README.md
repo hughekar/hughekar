@@ -10,7 +10,7 @@
 I am a dedicated ICT Technician with a strong background in supporting teams through the implementation of advanced systems and software to meet business objectives.
 
 I am proficient in programming, application, and website development, and has extensive experience in providing training materials and conducting workshops for Microsoft 365 applications. 
-I have expertise includes managing migrations to Intune and SharePoint, working with Active Directory and Azure AD, and utilizing Power Automate and Power BI platforms
+I have expertise including managing migrations to Intune and SharePoint, working with Active Directory and Azure AD, and utilizing Power Automate and Power BI platforms
 
 
 <p align="left">

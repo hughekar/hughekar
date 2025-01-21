@@ -5,7 +5,7 @@
 
 # Hi I am Karen Hughes
 
-**Developer (ICT Technian/Game Designer/Software Developer)**
+**Developer (Software Developer/Game Designer)**
 
 I am a dedicated ICT Technician with a strong background in supporting teams through the implementation of advanced systems and software to meet business objectives.
 

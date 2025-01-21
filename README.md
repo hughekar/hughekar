@@ -1,6 +1,8 @@
 <!--Banner-->
 ![Banner Image](./banner.png)
 
+
+
 # Hi I am Karen Hughes
 
 **Developer (ICT Technian/Game Designer/Software Developer)**

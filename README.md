@@ -20,6 +20,7 @@ I have expertise including managing migrations to Intune and SharePoint, working
                <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
    </p>
 
+#
 
 
 ### ✨ Languages 
@@ -33,7 +34,7 @@ I have expertise including managing migrations to Intune and SharePoint, working
 
 <br />
 
-
+#
 
 ### ✨ Game Developemnt
 
